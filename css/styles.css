@@ -1,12 +1,19 @@
 h1 {
-  color: #33C9FF;
+  color: #357F80;
+  text-align: center;
 }
 
 
 h2 {
-  color: #BCB3FF;
   font-style: italic;
   text-align: center;
+}
+
+h3 {
+  color: #27577B;
+  font-style: italic;
+  text-align: center;
+  font-family: fantasy;
 }
 
 p {
